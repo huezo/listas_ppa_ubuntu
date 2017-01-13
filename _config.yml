@@ -1,0 +1,8 @@
+title: Listas ppa ubuntu
+description: "en caso de error \" bash: /etc/apt/sources.list.d/virtualbox.org.list’: Permiso denegado \" en caso de error \" bash: /etc/apt/sources.list.d/google.list: Permiso denegado \""
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
